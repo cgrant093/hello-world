@@ -1,4 +1,4 @@
 # hello-world
-Github tutorial
+Github tut.
 
-New to Github, not new to coding, still plenty to learn
+N3w 70 Gi7hub, n07 n3w 70 c0ding, s7i11 p13n7y 70 13arn
